@@ -1,1 +1,5 @@
-very hungry and cold but
+<<<<<<< HEAD
+very hungry and cold and
+=======
+very hungry and cold and
+>>>>>>> eat
